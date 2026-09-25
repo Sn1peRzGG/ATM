@@ -73,3 +73,7 @@ Thumbs.db
 # Testing
 coverage/
 .nyc_output/
+
+# VS Code Code Runner temporary files
+src/tempCodeRunnerFile.ts
+tempCodeRunnerFile.ts
